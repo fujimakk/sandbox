@@ -3,5 +3,6 @@
         (fuga 2)
         )
     (pprint "this is just a test code.")
+    (pprint "I added some nice comments")
     (+ hoge fuga)
     ))
