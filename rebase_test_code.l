@@ -5,5 +5,7 @@
         )
     (pprint "this is just a test code.")
     (pprint "I added some nice comments")
+    (pprint "bbbbbbbbb")
+    (- fuga piyo)
     (+ hoge fuga piyo)
     ))
