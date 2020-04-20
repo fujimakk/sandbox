@@ -1,0 +1,7 @@
+(defun func ()
+  (let ((hoge 1)
+        (fuga 2)
+        )
+    (pprint "this is just a test code.")
+    (+ hoge fuga)
+    ))
